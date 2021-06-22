@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="79.141846mm"
+   height="22.940969mm"
+   viewBox="0 0 280.42386 81.286901"
+   sodipodi:docname="Banu.svg">
+  <title
+     id="title3333">Banu Logo</title>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Banu Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>CIG</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Vectorization by King Phoenix</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview4"
+     showgrid="false"
+     showguides="false"
+     units="mm"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     inkscape:zoom="3.9724138"
+     inkscape:cx="170.45507"
+     inkscape:cy="56.010448"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m 99.480502,15.894607 c 0.05041,-6.2673012 2.822438,-8.8264241 12.287668,-8.7669007 22.42623,-0.012608 74.34851,0 74.34851,0 l 0,15.4922307 -71.84528,0 0,13.671932 84.73709,0 0,-14.018656 64.9791,0 c 6.05245,0.173414 9.26652,1.386402 9.34052,8.318701 l 0,33.465117 c 0.0675,5.139855 0.005,10.107555 -9.34052,10.143257 l -249.173771,0 c -7.6602091,-0.05419 -7.7049889,-3.210934 -7.7272081,-8.848952 0,-35.396808 0,0 0,-35.396808 0.1326217,-5.756233 2.5036814,-8.748524 9.2907961,-8.561257 22.572843,0 0,0 22.572843,0 0.06049,-8.173635 -1.537301,-14.4246975 8.49499,-14.304965 l 31.550941,0 c 11.152251,-0.00341 9.981937,6.129215 10.135154,14.304965 l 0,38.047635 169.755225,0 0,-22.334762 -46.24605,0 c -0.008,13.158647 1.34582,15.12781 -9.3499,14.898597 -91.52244,0 0,0 -91.52244,0 -9.41193,-0.156183 -12.229894,-0.856252 -12.287668,-7.674742 m -47.503725,-7.407724 -29.332269,0 0,22.518631 51.435882,0 0,-36.739542 -22.103613,0 z"
+     id="path10"
+     style="opacity:1;fill:#000000"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+</svg>
