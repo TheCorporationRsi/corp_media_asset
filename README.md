@@ -47,6 +47,7 @@ All the logos and guide for the corporation
 ## Usefull link
 * Corp audio:  https://drive.google.com/drive/folders/10JThcEfW4zcZ3fnQaB14G94GV_PdJ54S?usp=sharing
 * Corp Video:  https://drive.google.com/drive/folders/1cQqcgd74jXxu9a1hGr8OoZUmCLkdBmmS?usp=sharing
+* Corp video animation: https://1drv.ms/u/s!Ahj_tbUwh9xKo6gr8W5vNUhe7TjUgw?e=pxQhVI
 
 ## Styling guide
 * https://material.io/design/communication/writing.html#principles
