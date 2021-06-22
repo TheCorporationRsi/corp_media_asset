@@ -1,11 +1,11 @@
 # CORP Media Asset
 All the logos and guide for the corporation
 
-## Main color:
+## Main color
 * Yellow: ![#fcff00](https://via.placeholder.com/15/fcff00/000000?text=+) `#fcff00`
 * Blue: ![#0083ff](https://via.placeholder.com/15/0083ff/000000?text=+) `#0083ff`
 
-## Department color code:
+## Department color code
 * Public relationship: ![#af1f90](https://via.placeholder.com/15/af1f90/000000?text=+) `#af1f90`
 * Business: ![#3498db](https://via.placeholder.com/15/3498db/000000?text=+) `#3498db`
 * Exploration: ![#00953d](https://via.placeholder.com/15/00953d/000000?text=+) `#00953d`
