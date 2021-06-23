@@ -1,5 +1,5 @@
 # CORP Media Asset
-All the logos and guide for the corporation
+All the logos and guide for The Corporation
 
 ## Main color
 * Yellow: ![#fcff00](https://via.placeholder.com/15/fcff00/000000?text=+) `#fcff00`
