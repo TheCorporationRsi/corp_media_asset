@@ -55,3 +55,10 @@ All the logos and guide for the corporation
 ## Styling guide
 * https://material.io/design/communication/writing.html#principles
 * https://material.google.com/style/color.html
+* https://imperiumadinfinitum.wordpress.com/2017/06/07/the-meaning-of-the-hexagon/
+* https://mastermindcontent.co.uk/esoteric-meaning-of-the-hexagon/
+
+##Software
+* Photoshop alternative (Cheap):  https://affinity.serif.com/en-gb/designer/
+* Coding: https://code.visualstudio.com/
+* Audio: https://www.reasonstudios.com/
