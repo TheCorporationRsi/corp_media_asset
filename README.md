@@ -6,8 +6,8 @@ All the logos and guide for the corporation
 * Blue: ![#0083ff](https://via.placeholder.com/15/0083ff/000000?text=+) `#0083ff`
 
 ## Main font
-Website: Orbitron
-Banner: Phage
+* Website: Orbitron
+* Banner: Phage
 
 ## Department color code
 * Public relationship: ![#af1f90](https://via.placeholder.com/15/af1f90/000000?text=+) `#af1f90`
@@ -44,6 +44,11 @@ Banner: Phage
 * support_light: ![#ffecd4](https://via.placeholder.com/15/ffecd4/000000?text=+) `#ffecd4`
 * support_dark: ![#412800](https://via.placeholder.com/15/412800/000000?text=+) `#412800`
 
-##Usefull link
+## Usefull link
 * Corp audio:  https://drive.google.com/drive/folders/10JThcEfW4zcZ3fnQaB14G94GV_PdJ54S?usp=sharing
 * Corp Video:  https://drive.google.com/drive/folders/1cQqcgd74jXxu9a1hGr8OoZUmCLkdBmmS?usp=sharing
+* Corp video animation: https://1drv.ms/u/s!Ahj_tbUwh9xKo6gr8W5vNUhe7TjUgw?e=pxQhVI
+
+## Styling guide
+* https://material.io/design/communication/writing.html#principles
+* https://material.google.com/style/color.html
